@@ -188,31 +188,8 @@ Quantidade de clientes únicos que realizaram pedidos.
 
 ### Ticket médio
 
-```text
+
 faturamento total / quantidade de pedidos
-```
-
-## 💼 Valor para o portfólio
-
-Este projeto complementa o seu projeto SQL porque demonstra uma cadeia mais completa:
-
-```text
-SQL
- ↓
-Modelagem
- ↓
-Query analítica
- ↓
-Dataset
- ↓
-Python/Pandas
- ↓
-Dashboard
- ↓
-Business Insights
-```
-
-Assim, em vez de mostrar somente consultas SQL, você consegue apresentar também o **resultado visual da análise**.
 
 ## 📄 Licença
 
