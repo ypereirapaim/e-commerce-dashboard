@@ -214,20 +214,6 @@ Business Insights
 
 Assim, em vez de mostrar somente consultas SQL, você consegue apresentar também o **resultado visual da análise**.
 
-## 🚀 Próximas evoluções
-
-Para transformar o projeto em uma solução ainda mais profissional:
-
-- conectar diretamente ao PostgreSQL;
-- criar camada de tratamento com Pandas;
-- adicionar Docker;
-- publicar no Streamlit Community Cloud;
-- criar pipeline ETL;
-- adicionar atualização automática;
-- integrar o dashboard ao projeto Lakehouse;
-- adicionar métricas de margem e lucro;
-- incluir análise temporal e sazonalidade.
-
 ## 📄 Licença
 
 MIT
