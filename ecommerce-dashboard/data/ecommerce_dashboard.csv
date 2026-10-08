@@ -1,0 +1,155 @@
+pedido_id,data_pedido,cliente_id,cliente,estado,produto_id,produto,categoria,preco_unitario,quantidade,faturamento
+1,2025-02-27,11,Larissa Gomes,SC,5,Mesa de Escritório,Móveis,1250.0,1,1250.0
+2,2025-03-13,4,Diego Alves,PR,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+2,2025-03-13,4,Diego Alves,PR,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+2,2025-03-13,4,Diego Alves,PR,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+3,2025-02-17,1,Ana Souza,RS,4,Cadeira Office,Móveis,890.0,3,2670.0
+4,2025-01-14,10,João Oliveira,RS,4,Cadeira Office,Móveis,890.0,1,890.0
+4,2025-01-14,10,João Oliveira,RS,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+4,2025-01-14,10,João Oliveira,RS,7,Teclado Mecânico,Periféricos,450.0,3,1350.0
+5,2025-01-04,5,Eduarda Costa,RS,7,Teclado Mecânico,Periféricos,450.0,2,900.0
+6,2025-03-21,5,Eduarda Costa,RS,6,Mochila Executiva,Acessórios,240.0,1,240.0
+7,2025-07-14,2,Bruno Lima,SP,6,Mochila Executiva,Acessórios,240.0,2,480.0
+8,2025-05-16,10,João Oliveira,RS,8,Monitor 27,Eletrônicos,1750.0,3,5250.0
+9,2025-07-13,2,Bruno Lima,SP,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+10,2025-11-13,11,Larissa Gomes,SC,10,Webcam Full HD,Eletrônicos,390.0,3,1170.0
+10,2025-11-13,11,Larissa Gomes,SC,4,Cadeira Office,Móveis,890.0,1,890.0
+11,2025-12-05,1,Ana Souza,RS,5,Mesa de Escritório,Móveis,1250.0,1,1250.0
+12,2025-02-21,4,Diego Alves,PR,5,Mesa de Escritório,Móveis,1250.0,3,3750.0
+12,2025-02-21,4,Diego Alves,PR,8,Monitor 27,Eletrônicos,1750.0,2,3500.0
+13,2025-07-09,3,Carla Mendes,SC,4,Cadeira Office,Móveis,890.0,3,2670.0
+13,2025-07-09,3,Carla Mendes,SC,5,Mesa de Escritório,Móveis,1250.0,3,3750.0
+14,2025-02-06,11,Larissa Gomes,SC,3,Fone Bluetooth,Eletrônicos,320.0,1,320.0
+14,2025-02-06,11,Larissa Gomes,SC,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+14,2025-02-06,11,Larissa Gomes,SC,4,Cadeira Office,Móveis,890.0,2,1780.0
+15,2025-11-24,5,Eduarda Costa,RS,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+15,2025-11-24,5,Eduarda Costa,RS,4,Cadeira Office,Móveis,890.0,1,890.0
+15,2025-11-24,5,Eduarda Costa,RS,6,Mochila Executiva,Acessórios,240.0,1,240.0
+16,2025-07-25,6,Felipe Rocha,MG,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+16,2025-07-25,6,Felipe Rocha,MG,4,Cadeira Office,Móveis,890.0,3,2670.0
+17,2025-04-19,6,Felipe Rocha,MG,8,Monitor 27,Eletrônicos,1750.0,1,1750.0
+17,2025-04-19,6,Felipe Rocha,MG,7,Teclado Mecânico,Periféricos,450.0,2,900.0
+17,2025-04-19,6,Felipe Rocha,MG,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+18,2025-10-15,4,Diego Alves,PR,5,Mesa de Escritório,Móveis,1250.0,2,2500.0
+18,2025-10-15,4,Diego Alves,PR,7,Teclado Mecânico,Periféricos,450.0,1,450.0
+18,2025-10-15,4,Diego Alves,PR,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+19,2025-09-10,9,Isabela Martins,BA,1,Notebook Pro,Eletrônicos,4200.0,1,4200.0
+20,2025-11-18,3,Carla Mendes,SC,7,Teclado Mecânico,Periféricos,450.0,3,1350.0
+21,2025-07-17,2,Bruno Lima,SP,10,Webcam Full HD,Eletrônicos,390.0,3,1170.0
+21,2025-07-17,2,Bruno Lima,SP,8,Monitor 27,Eletrônicos,1750.0,2,3500.0
+22,2025-01-06,9,Isabela Martins,BA,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+22,2025-01-06,9,Isabela Martins,BA,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+22,2025-01-06,9,Isabela Martins,BA,5,Mesa de Escritório,Móveis,1250.0,1,1250.0
+23,2025-08-11,5,Eduarda Costa,RS,8,Monitor 27,Eletrônicos,1750.0,1,1750.0
+24,2025-05-15,12,Marcos Pereira,PR,3,Fone Bluetooth,Eletrônicos,320.0,3,960.0
+24,2025-05-15,12,Marcos Pereira,PR,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+24,2025-05-15,12,Marcos Pereira,PR,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+25,2025-11-08,9,Isabela Martins,BA,3,Fone Bluetooth,Eletrônicos,320.0,2,640.0
+26,2025-10-04,3,Carla Mendes,SC,1,Notebook Pro,Eletrônicos,4200.0,1,4200.0
+26,2025-10-04,3,Carla Mendes,SC,6,Mochila Executiva,Acessórios,240.0,1,240.0
+26,2025-10-04,3,Carla Mendes,SC,8,Monitor 27,Eletrônicos,1750.0,2,3500.0
+27,2025-05-03,5,Eduarda Costa,RS,4,Cadeira Office,Móveis,890.0,3,2670.0
+28,2025-02-13,2,Bruno Lima,SP,8,Monitor 27,Eletrônicos,1750.0,1,1750.0
+28,2025-02-13,2,Bruno Lima,SP,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+28,2025-02-13,2,Bruno Lima,SP,3,Fone Bluetooth,Eletrônicos,320.0,2,640.0
+29,2025-03-26,9,Isabela Martins,BA,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+29,2025-03-26,9,Isabela Martins,BA,7,Teclado Mecânico,Periféricos,450.0,3,1350.0
+30,2025-12-20,12,Marcos Pereira,PR,5,Mesa de Escritório,Móveis,1250.0,2,2500.0
+31,2025-11-29,11,Larissa Gomes,SC,8,Monitor 27,Eletrônicos,1750.0,2,3500.0
+31,2025-11-29,11,Larissa Gomes,SC,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+32,2025-04-26,4,Diego Alves,PR,6,Mochila Executiva,Acessórios,240.0,1,240.0
+33,2025-10-11,10,João Oliveira,RS,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+34,2025-02-06,1,Ana Souza,RS,1,Notebook Pro,Eletrônicos,4200.0,1,4200.0
+34,2025-02-06,1,Ana Souza,RS,4,Cadeira Office,Móveis,890.0,2,1780.0
+34,2025-02-06,1,Ana Souza,RS,2,Smartphone X,Eletrônicos,2800.0,1,2800.0
+35,2025-05-02,9,Isabela Martins,BA,8,Monitor 27,Eletrônicos,1750.0,3,5250.0
+35,2025-05-02,9,Isabela Martins,BA,4,Cadeira Office,Móveis,890.0,1,890.0
+36,2025-10-20,12,Marcos Pereira,PR,8,Monitor 27,Eletrônicos,1750.0,2,3500.0
+36,2025-10-20,12,Marcos Pereira,PR,4,Cadeira Office,Móveis,890.0,1,890.0
+36,2025-10-20,12,Marcos Pereira,PR,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+37,2025-12-04,2,Bruno Lima,SP,6,Mochila Executiva,Acessórios,240.0,2,480.0
+37,2025-12-04,2,Bruno Lima,SP,7,Teclado Mecânico,Periféricos,450.0,2,900.0
+38,2025-01-28,12,Marcos Pereira,PR,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+38,2025-01-28,12,Marcos Pereira,PR,1,Notebook Pro,Eletrônicos,4200.0,2,8400.0
+38,2025-01-28,12,Marcos Pereira,PR,7,Teclado Mecânico,Periféricos,450.0,1,450.0
+39,2025-04-09,4,Diego Alves,PR,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+40,2025-08-05,3,Carla Mendes,SC,5,Mesa de Escritório,Móveis,1250.0,2,2500.0
+41,2025-02-08,4,Diego Alves,PR,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+41,2025-02-08,4,Diego Alves,PR,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+42,2025-01-08,9,Isabela Martins,BA,4,Cadeira Office,Móveis,890.0,1,890.0
+43,2025-09-06,7,Gabriela Santos,SP,4,Cadeira Office,Móveis,890.0,1,890.0
+43,2025-09-06,7,Gabriela Santos,SP,7,Teclado Mecânico,Periféricos,450.0,1,450.0
+44,2025-01-02,7,Gabriela Santos,SP,5,Mesa de Escritório,Móveis,1250.0,2,2500.0
+44,2025-01-02,7,Gabriela Santos,SP,8,Monitor 27,Eletrônicos,1750.0,2,3500.0
+45,2025-10-12,12,Marcos Pereira,PR,8,Monitor 27,Eletrônicos,1750.0,2,3500.0
+45,2025-10-12,12,Marcos Pereira,PR,3,Fone Bluetooth,Eletrônicos,320.0,1,320.0
+45,2025-10-12,12,Marcos Pereira,PR,4,Cadeira Office,Móveis,890.0,1,890.0
+46,2025-10-05,10,João Oliveira,RS,6,Mochila Executiva,Acessórios,240.0,1,240.0
+47,2025-10-27,1,Ana Souza,RS,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+47,2025-10-27,1,Ana Souza,RS,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+48,2025-02-11,9,Isabela Martins,BA,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+49,2025-12-12,2,Bruno Lima,SP,7,Teclado Mecânico,Periféricos,450.0,1,450.0
+50,2025-05-07,10,João Oliveira,RS,10,Webcam Full HD,Eletrônicos,390.0,2,780.0
+50,2025-05-07,10,João Oliveira,RS,1,Notebook Pro,Eletrônicos,4200.0,3,12600.0
+50,2025-05-07,10,João Oliveira,RS,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+51,2025-09-25,10,João Oliveira,RS,5,Mesa de Escritório,Móveis,1250.0,3,3750.0
+51,2025-09-25,10,João Oliveira,RS,4,Cadeira Office,Móveis,890.0,3,2670.0
+52,2025-05-03,6,Felipe Rocha,MG,7,Teclado Mecânico,Periféricos,450.0,3,1350.0
+52,2025-05-03,6,Felipe Rocha,MG,3,Fone Bluetooth,Eletrônicos,320.0,3,960.0
+53,2025-08-23,5,Eduarda Costa,RS,2,Smartphone X,Eletrônicos,2800.0,2,5600.0
+53,2025-08-23,5,Eduarda Costa,RS,1,Notebook Pro,Eletrônicos,4200.0,3,12600.0
+54,2025-02-21,10,João Oliveira,RS,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+55,2025-05-16,9,Isabela Martins,BA,6,Mochila Executiva,Acessórios,240.0,1,240.0
+56,2025-07-09,4,Diego Alves,PR,3,Fone Bluetooth,Eletrônicos,320.0,3,960.0
+56,2025-07-09,4,Diego Alves,PR,8,Monitor 27,Eletrônicos,1750.0,3,5250.0
+57,2025-11-10,5,Eduarda Costa,RS,9,Mouse Sem Fio,Periféricos,180.0,3,540.0
+57,2025-11-10,5,Eduarda Costa,RS,1,Notebook Pro,Eletrônicos,4200.0,1,4200.0
+57,2025-11-10,5,Eduarda Costa,RS,5,Mesa de Escritório,Móveis,1250.0,1,1250.0
+58,2025-03-01,5,Eduarda Costa,RS,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+59,2025-05-25,5,Eduarda Costa,RS,4,Cadeira Office,Móveis,890.0,3,2670.0
+59,2025-05-25,5,Eduarda Costa,RS,6,Mochila Executiva,Acessórios,240.0,3,720.0
+59,2025-05-25,5,Eduarda Costa,RS,10,Webcam Full HD,Eletrônicos,390.0,2,780.0
+60,2025-09-08,9,Isabela Martins,BA,1,Notebook Pro,Eletrônicos,4200.0,3,12600.0
+60,2025-09-08,9,Isabela Martins,BA,2,Smartphone X,Eletrônicos,2800.0,2,5600.0
+61,2025-01-23,5,Eduarda Costa,RS,6,Mochila Executiva,Acessórios,240.0,1,240.0
+62,2025-05-15,11,Larissa Gomes,SC,8,Monitor 27,Eletrônicos,1750.0,3,5250.0
+63,2025-08-07,12,Marcos Pereira,PR,1,Notebook Pro,Eletrônicos,4200.0,3,12600.0
+63,2025-08-07,12,Marcos Pereira,PR,2,Smartphone X,Eletrônicos,2800.0,1,2800.0
+63,2025-08-07,12,Marcos Pereira,PR,9,Mouse Sem Fio,Periféricos,180.0,3,540.0
+64,2025-07-09,1,Ana Souza,RS,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+64,2025-07-09,1,Ana Souza,RS,3,Fone Bluetooth,Eletrônicos,320.0,1,320.0
+64,2025-07-09,1,Ana Souza,RS,7,Teclado Mecânico,Periféricos,450.0,2,900.0
+65,2025-01-21,6,Felipe Rocha,MG,4,Cadeira Office,Móveis,890.0,3,2670.0
+65,2025-01-21,6,Felipe Rocha,MG,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+66,2025-10-14,6,Felipe Rocha,MG,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+66,2025-10-14,6,Felipe Rocha,MG,3,Fone Bluetooth,Eletrônicos,320.0,1,320.0
+67,2025-07-31,3,Carla Mendes,SC,3,Fone Bluetooth,Eletrônicos,320.0,3,960.0
+68,2025-07-30,6,Felipe Rocha,MG,4,Cadeira Office,Móveis,890.0,3,2670.0
+68,2025-07-30,6,Felipe Rocha,MG,5,Mesa de Escritório,Móveis,1250.0,1,1250.0
+68,2025-07-30,6,Felipe Rocha,MG,3,Fone Bluetooth,Eletrônicos,320.0,2,640.0
+69,2025-08-29,1,Ana Souza,RS,4,Cadeira Office,Móveis,890.0,2,1780.0
+70,2025-06-06,6,Felipe Rocha,MG,4,Cadeira Office,Móveis,890.0,1,890.0
+71,2025-04-09,11,Larissa Gomes,SC,6,Mochila Executiva,Acessórios,240.0,1,240.0
+71,2025-04-09,11,Larissa Gomes,SC,5,Mesa de Escritório,Móveis,1250.0,2,2500.0
+72,2025-11-25,6,Felipe Rocha,MG,7,Teclado Mecânico,Periféricos,450.0,1,450.0
+72,2025-11-25,6,Felipe Rocha,MG,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+72,2025-11-25,6,Felipe Rocha,MG,6,Mochila Executiva,Acessórios,240.0,2,480.0
+73,2025-10-25,3,Carla Mendes,SC,1,Notebook Pro,Eletrônicos,4200.0,3,12600.0
+73,2025-10-25,3,Carla Mendes,SC,2,Smartphone X,Eletrônicos,2800.0,2,5600.0
+74,2025-06-10,6,Felipe Rocha,MG,10,Webcam Full HD,Eletrônicos,390.0,1,390.0
+74,2025-06-10,6,Felipe Rocha,MG,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+75,2025-04-08,10,João Oliveira,RS,1,Notebook Pro,Eletrônicos,4200.0,1,4200.0
+75,2025-04-08,10,João Oliveira,RS,7,Teclado Mecânico,Periféricos,450.0,3,1350.0
+76,2025-12-18,9,Isabela Martins,BA,4,Cadeira Office,Móveis,890.0,1,890.0
+76,2025-12-18,9,Isabela Martins,BA,6,Mochila Executiva,Acessórios,240.0,3,720.0
+76,2025-12-18,9,Isabela Martins,BA,7,Teclado Mecânico,Periféricos,450.0,2,900.0
+77,2025-06-10,10,João Oliveira,RS,2,Smartphone X,Eletrônicos,2800.0,3,8400.0
+77,2025-06-10,10,João Oliveira,RS,5,Mesa de Escritório,Móveis,1250.0,2,2500.0
+77,2025-06-10,10,João Oliveira,RS,9,Mouse Sem Fio,Periféricos,180.0,2,360.0
+78,2025-12-23,7,Gabriela Santos,SP,9,Mouse Sem Fio,Periféricos,180.0,1,180.0
+78,2025-12-23,7,Gabriela Santos,SP,3,Fone Bluetooth,Eletrônicos,320.0,2,640.0
+79,2025-07-14,11,Larissa Gomes,SC,3,Fone Bluetooth,Eletrônicos,320.0,3,960.0
+79,2025-07-14,11,Larissa Gomes,SC,5,Mesa de Escritório,Móveis,1250.0,1,1250.0
+79,2025-07-14,11,Larissa Gomes,SC,7,Teclado Mecânico,Periféricos,450.0,2,900.0
+80,2025-04-18,5,Eduarda Costa,RS,10,Webcam Full HD,Eletrônicos,390.0,2,780.0
+80,2025-04-18,5,Eduarda Costa,RS,6,Mochila Executiva,Acessórios,240.0,2,480.0
